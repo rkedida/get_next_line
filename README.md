@@ -23,7 +23,7 @@ Ability to manage multiple file descriptors simultaneously (Bonus part).
 git clone https://github.com/your_username/get_next_line.git
 ```
 
-This will compile the library and generate the necessary files.
+This will download the necessary files.
 
 ## Usage
 Include the header file (get_next_line.h) in your C project:
