@@ -37,3 +37,6 @@ When compiling your project, link with the required files:
 gcc -Wall -Wextra -Werror -D BUFFER_SIZE=32 get_next_line.c get_next_line_utils.c your_c_file.c -o your_program_name
 ```
 Replace 32 with the buffer size of your choice and your_c_file.c with the C file you want to compile.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
