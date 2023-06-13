@@ -21,8 +21,6 @@ Ability to manage multiple file descriptors simultaneously (Bonus part).
 ## Installation
 ```sh
 git clone https://github.com/your_username/get_next_line.git
-cd get_next_line
-make
 ```
 
 This will compile the library and generate the necessary files.
